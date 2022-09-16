@@ -1,0 +1,10 @@
+{
+  "fruits": [
+    { "name": "NAME OF THE FRUIT", "image": "LINK THE IMAGE OF THE FRUIT" },
+    { "name": "NAME OF THE FRUIT", "image": "LINK THE IMAGE OF THE FRUIT" }
+  ],
+  "veges": [
+    { "name": "NAME OF THE VEGE", "image": "LINK THE IMAGE OF THE VEGE" },
+    { "name": "NAME OF THE VEGE", "image": "LINK THE IMAGE OF THE VEGE" }
+  ]
+}
